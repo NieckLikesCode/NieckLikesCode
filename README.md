@@ -5,7 +5,7 @@ I use this website to upload code of programs that I either needed myself or who
 
 
 <p align="center">
-  <img src="https://media.tenor.com/XXmdU1_Af-oAAAAj/cat-waving-hand.gif" />
+  <img src="cat.gif" />
 </p>
 
 
