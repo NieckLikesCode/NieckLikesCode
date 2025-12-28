@@ -1,4 +1,13 @@
-### Hi there 👋
+
+### Mahlzeit 👋
+
+I use this website to upload my work that I either needed myself or whose programming or functionality interests me. I believe software should be free and open, so feel free to reuse my code for anything you want. If you do use my code in a public project, a mention is by no means necessary, but I would be very happy to see where my code has ended up. Also, check out [this very sleepy cat](https://www.youtube.com/watch?v=Z1UWsBJ5HgU)
+
+
+<p align="center">
+  <img src="https://media.tenor.com/XXmdU1_Af-oAAAAj/cat-waving-hand.gif" />
+</p>
+
 
 <!--
 **NieckLikesCode/NieckLikesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
